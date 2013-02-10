@@ -1,0 +1,12 @@
+{
+  "parts": [
+    {
+      "name": "help_bubbles",
+      "hooks": {
+        "eejsBlock_scripts": "ep_help_bubbles/static/js/help_bubbles.js:eejsBlock_scripts",
+        "eejsBlock_styles": "ep_help_bubbles/static/js/help_bubbles.js:eejsBlock_styles",
+	"eejsBlock_editbarMenuRight": "ep_help_bubbles/static/js/help_bubbles.js:eejsBlock_editbarMenuRight"
+      }
+    }
+  ]
+}

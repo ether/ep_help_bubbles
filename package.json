@@ -1,0 +1,39 @@
+{
+  "name": "ep_help_bubbles",
+  "description": "Help bubbles for Etherpad Lite",
+  "homepage": "https://github.com/johnmclear/ep_help_bubbles",
+  "keywords": [
+    "help",
+    "bubbles",
+    "guide",
+    "first",
+    "new"
+  ],
+  "author": {
+    "name": "John McLear",
+    "email": "john@mclear.co.uk",
+    "url": "http://mclear.co.uk"
+  },
+  "version": "1.0.3",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/johnmclear/ep_help_bubbles.git"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  },
+  "_id": "ep_help_bubbles@1.0.2",
+  "_engineSupported": true,
+  "_npmVersion": "1.1.24",
+  "_nodeVersion": "v0.8.11",
+  "_defaultsLoaded": true,
+  "dist": {
+    "shasum": "c711125cd515a780329d0bb0c5aa838a552ecf5f"
+  },
+  "_from": "ep_help_bubbles@",
+  "readme": "ERROR: No README.md file found!",
+  "_resolved": "https://registry.npmjs.org/ep_help_bubbles/-/ep_help_bubbles-1.0.2.tgz"
+}
