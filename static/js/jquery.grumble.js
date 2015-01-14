@@ -101,7 +101,7 @@
 				},
 
 				showBubble: function(){
-					if($.browser.msie === true){
+					if(browser.msie === true){
 						grumble.bubble.queue('fx',function(next){
 							grumble.bubble.show();
 							next();
@@ -142,7 +142,7 @@
 						next();
 					});
 
-					if($.browser.msie === true){
+					if(browser.msie === true){
 						grumble.bubble.queue('fx',function(next){
 							grumble.bubble.hide();
 							next();

@@ -13,7 +13,7 @@ function help_bubbles()
                 text: 'Chat is down here'
         }
   );
-  $('#timesliderlink').grumble(
+  $('.buttonicon-history').grumble(
         {
                 text: 'Timeslider view',
                 angle: 180,
@@ -22,7 +22,7 @@ function help_bubbles()
                 hideAfter: 2000,
         }
   );
-  $('#revisionlink').grumble(
+  $('.buttonicon-savedRevision').grumble(
         {
                 text: 'Save revision',
                 angle: 180,
@@ -31,7 +31,7 @@ function help_bubbles()
                 hideAfter: 2000,
         }
   );
-  $('#settingslink').grumble(
+  $('.buttonicon-settings').grumble(
         {
                 text: 'Your Settings',
                 angle: 180,
@@ -40,7 +40,7 @@ function help_bubbles()
                 hideAfter: 2000,
         }
   );
-  $('#importexportlink').grumble(
+  $('.buttonicon-import_export').grumble(
         {
                 text: 'Import & Export',
                 angle: 180,
@@ -49,7 +49,7 @@ function help_bubbles()
                 hideAfter: 2000,
         }
   );
-  $('#embedlink').grumble(
+  $('.buttonicon-embed').grumble(
         {
                 text: 'Share & Embed pad',
                 angle: 180,
@@ -58,7 +58,7 @@ function help_bubbles()
                 hideAfter: 2000,
         }
   );
-  $('#usericon').grumble(
+  $('.buttonicon-showusers').grumble(
         {
                 text: 'Who is on this pad?',
                 angle: 220,
@@ -67,9 +67,9 @@ function help_bubbles()
                 hideAfter: 2000,
         }
   );
-  $('#clearAuthorship').grumble(
+  $('.buttonicon-clearauthorship').grumble(
         {
-                text: 'Clear pad authorship colours',
+                text: 'Clear author colours',
                 angle: 220,
                 distance: 5,
                 showAfter: 14000,

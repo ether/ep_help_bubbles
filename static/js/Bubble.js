@@ -94,7 +94,7 @@
         },
 
         rotate: function(){
-            if($.browser.msie === true){
+            if(browser.msie === true){
                 this.ieRotate();
             } else {
                 this.cssRotate();
