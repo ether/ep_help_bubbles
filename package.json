@@ -35,5 +35,9 @@
   },
   "_from": "ep_help_bubbles@",
   "readme": "ERROR: No README.md file found!",
-  "_resolved": "https://registry.npmjs.org/ep_help_bubbles/-/ep_help_bubbles-1.0.2.tgz"
+  "_resolved": "https://registry.npmjs.org/ep_help_bubbles/-/ep_help_bubbles-1.0.2.tgz",
+  "funding": {
+    "type": "individual",
+    "url": "http://etherpad.org/"
+  }
 }
