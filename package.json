@@ -14,20 +14,20 @@
     "email": "john@mclear.co.uk",
     "url": "http://mclear.co.uk"
   },
-  "version": "1.1.19",
+  "version": "1.1.20",
   "repository": {
     "type": "git",
     "url": "git://github.com/johnmclear/ep_help_bubbles.git"
   },
   "dependencies": {},
   "devDependencies": {
-    "eslint": "^8.11.0",
-    "eslint-config-etherpad": "^3.0.9",
-    "typescript": "^4.6.2"
+    "eslint": "^8.57.0",
+    "eslint-config-etherpad": "^4.0.4",
+    "typescript": "^5.4.2"
   },
   "optionalDependencies": {},
   "engines": {
-    "node": ">=12.17.0"
+    "node": ">=18.0.0"
   },
   "_id": "ep_help_bubbles@1.0.2",
   "_engineSupported": true,
@@ -47,8 +47,5 @@
   "scripts": {
     "lint": "eslint .",
     "lint:fix": "eslint --fix ."
-  },
-  "peerDependencies": {
-    "ep_etherpad-lite": ">=1.8.6"
   }
 }
