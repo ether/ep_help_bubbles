@@ -14,18 +14,16 @@
     "email": "john@mclear.co.uk",
     "url": "http://mclear.co.uk"
   },
-  "version": "1.1.23",
+  "version": "1.1.24",
   "repository": {
     "type": "git",
     "url": "git://github.com/johnmclear/ep_help_bubbles.git"
   },
-  "dependencies": {},
   "devDependencies": {
-    "eslint": "^8.57.0",
+    "eslint": "^8.57.1",
     "eslint-config-etherpad": "^4.0.4",
-    "typescript": "^5.4.2"
+    "typescript": "^5.9.3"
   },
-  "optionalDependencies": {},
   "engines": {
     "node": ">=18.0.0"
   },
